@@ -1,7 +1,12 @@
-echo "# git-commands" >> README.md
+COMMANDS:
 git init
-git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Navyamente/git-commands.git
 git push -u origin main
+
+PUSH......
+git remote add origin https://github.com/Navyamente/git-commands.git
+git branch -M main
+git push -u origin main
+git checkout -b featurename.. develop -->Change branch to develop
